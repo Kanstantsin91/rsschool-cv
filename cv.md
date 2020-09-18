@@ -6,4 +6,6 @@
 Want to become Front-End Developer.
 ## Skills:
 JavaScript, React, HTML/CSS, Git, Java Core, Hibernate, Spring, Spring MVC
-  
+## Education: 
+* TeachMeSkills courses Front-End Development
+* TeachMeSkills courses Java Development
