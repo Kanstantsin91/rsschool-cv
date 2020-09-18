@@ -1,0 +1,18 @@
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.title {
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.content {
+    margin-bottom: 10px;
+    font-weight: normal;
+}
