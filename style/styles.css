@@ -25,6 +25,10 @@ article{
     border-bottom: 2px solid rgb(138, 136, 136);
 }
 
+.programmer-photo{
+    display: none;
+}
+
 .photo-section {
     display: flex;
     justify-content: center;
